@@ -1,0 +1,1 @@
+import{_ as e}from"./index.ed9ed431.js";import{o,c as s,a as t}from"./vendor.3f1dbb68.js";const a={name:"About"},c={class:"body"},n=t("h1",null,"\u6D4B\u8BD5",-1),r=[n];function d(_,i,p,f,l,m){return o(),s("div",c,r)}var h=e(a,[["render",d]]);export{h as default};

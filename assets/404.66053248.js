@@ -1,0 +1,1 @@
+import{_ as s}from"./index.ed9ed431.js";import{o,c as t,a as e}from"./vendor.3f1dbb68.js";const _={name:"404"},a={class:"body"},n=e("div",{class:"context"},[e("p",null,"\u4E00\u4E0D\u5C0F\u5FC3 404\u4E86, \u8BA9\u9875\u9762\u98DE\u4E00\u4F1A")],-1),c=[n];function r(d,i,p,l,f,m){return o(),t("div",a,c)}var x=s(_,[["render",r]]);export{x as default};

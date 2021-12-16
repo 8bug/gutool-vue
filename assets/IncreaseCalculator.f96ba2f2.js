@@ -1,0 +1,1 @@
+import{_ as e}from"./index.ed9ed431.js";import{o,c as s,a}from"./vendor.3f1dbb68.js";const t={name:"IncreaseCalculator"},c={class:"body"},r=a("h1",null,"\u6D4B\u8BD5\u6DA8\u5E45\u8BA1\u7B97\u5668",-1),n=[r];function d(_,l,i,p,f,m){return o(),s("div",c,n)}var x=e(t,[["render",d]]);export{x as default};
