@@ -1,1 +1,0 @@
-import{_ as s}from"./index.ed9ed431.js";import{o,c as _,p as t,i as c,a as d}from"./vendor.3f1dbb68.js";const a={},r=e=>(t("data-v-474659e7"),e=e(),c(),e),n={class:"body"},i=r(()=>d("div",null,"\u6D4B\u8BD5",-1)),p=[i];function l(e,v){return o(),_("div",n,p)}var u=s(a,[["render",l],["__scopeId","data-v-474659e7"]]);export{u as default};
